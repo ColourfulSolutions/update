@@ -1,0 +1,32 @@
+Colourful Solutions HE build settings
+-------------------------------------
+
+ZoomIn button - script
+
+Global.HEZoomIn
+
+
+ZoomOut button - script
+
+Global.HEZoomOut
+
+
+BackButton
+
+No change - set in History mode
+
+
+Forward button - script 
+
+Forward.goforward
+
+
+Elements (Periodic table) script
+
+UserMain.ptpop
+
+
+Calculator button script
+
+UserMain.calcpop
+
